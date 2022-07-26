@@ -1,0 +1,27 @@
+.img-fluid{
+    height: 24rem;
+    width: 20rem;
+}
+
+.ba{
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+    height: 700px;
+}
+.bgimg{
+    background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIEAwgMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAAAQIDBAf/xAAiEAEBAAIDAAIDAQEBAAAAAAAAAQIREiExQVEDE2FxMiL/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBf/EABsRAQEBAAMBAQAAAAAAAAAAAAABEQISITFR/9oADAMBAAIRAxEAPwD1Tj/FSndp1lvxyeiqa+jvc1S8PYiccd/Cta+INwbAezSP1d7Xs5l/Q9iccZOpGnGzw5VbGbaiY2/CM/xyXdjfacpKqS1njJF8p8llh11e05Y8Z6i/VcoVyZd/CsZ9i5D7vwLjl9Ll0dyE2lhNRaZNmqUysLZXIMOlU2jaLgBbA1ieQuY4wcYL4XOJ51cxm1zQbIyltXIqyEJqb0NxRTHHYHjV7L/zByGT2N1PIthi+RWck7PYuDVnwJ2OZ7t8A9DpNt+i32GL5SC5J1bBqwTD7o0WxyFGiotTd/AoBaz+gijmN2+RfHE5NeKmo1TkqtgNLWXwOOWlTIXIT1lbZR39LthchTxx3/1Vfrx/pYzbSY9ejNrO4z4RY6Jhos8OWv4E5MscN9r4LxnWj0qdkcIPPF6TkGp2nox0ip2e9jUq8cIHiOOy4VtqHZA7MscZDsVZohNTsDQGiLaOaeVt6GsacpsXJMxyvw0x/F132JciJkerfPV/rk8OTQmueY5ZZaaY4ZT1ruFyFvK08MWkjPHJcqudUCAyAVTaKdyRam3dK42jcir2OkS2C1FxpNLjLHtcVLFptG0ZiSKtTajdK5VGsVs2XIDWLuMGGEl2tNGdaTR7ZchMhMa7icu0XIcheplPU7PYuKl0qZM9jYmNeY5dsOXbXCfapZiraS+isgmljqeL9iJFwSsc8dMp27LJWOeHHuRGuPIpjdK1/Rj4dUv0kZL2jLtFiLdFafC30+A1sZbNrxgRex7TaW0ZeKkgtTzZ5ZJtu2ddZxdEy2e2GO62wwtGbMaY+CS7Vjhr/F8WnO1PGfJ8ZpXErjRnUXGLw8KT7V5FLTCZdqEPR60NgQk53pVRkLE43R7TobRrDCeRbFxabU8haLithns0XBju1pPx79VMdKVi8vxH6cPpGX4cPZNNioTlWeOGlzEGFqoaNjYzjTodM+SeQY0pbRyKUXGksG4js/8AQxW+z2U0aoRU7U1CEnIW9lvY3haqatNGon0yvSLmmtSWtQx5/wBBq9XdsI2Nq4YoJ2excMi5FsMMFsthik1RUVGV0eORZFPRprMhtMUMHsuRUqGKtTaQouM8suxjutNHpGtTBo9GqIyw3GWX4snQm9pjU5WOTVDo1/DTG+zQAK4gAKAgEUABRZUAZRSnoCNrMBWSOgAn5ACKZ3wAQqABQkACACq//9k=');
+}
+
+.resume{
+    color: #F06000;
+}
+.lead{
+    color: #888888;
+    font-family: "lora-regular", serif;
+}
+.bg-image {
+     background-image: url('https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?w=2000');
+
+ }
+.myself{
+    color: #888888;
+}
